@@ -1,0 +1,2 @@
+language = "bash"
+run = "mcs -out:Main.exe './AULA_0513/matue.cs' ; mono Main.exe"
